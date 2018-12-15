@@ -1,2 +1,5 @@
 # RPS
-Rock Paper Scissors in Java, I dont understand how to use github so go to my branch named 'rps' for the source.
+A Rock Paper Scissors Program written in Java
+
+Created by: Mark Mauro
+Instagram: @markymauro
